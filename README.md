@@ -23,6 +23,8 @@ Pseudocode:
 
 ### _Answer_
 
+![exercise1](./flowcharts/exercise1.png)
+
 ## Exercise 2
 
 Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area.
@@ -35,6 +37,8 @@ Pseudocode:
 
 ### _Answer_
 
+![exercise2](./flowcharts/exercise2.png)
+
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
@@ -43,11 +47,15 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 
 ### _Answer_
 
+![exercise3](./flowcharts/exercise3.png)
+
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+
+![exercise4](./flowcharts/exercise4.png)
 
 ## Exercise 5
 
@@ -66,3 +74,4 @@ Display the grades as per the table given below:
 
 ### _Answer_
 
+![exercise5](./flowcharts/exercise5.png)
